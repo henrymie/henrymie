@@ -4,8 +4,8 @@
 
 <h3 align="center">
   <h2 align="center">My Biggest Projects!</h2>
-  <a href="https://github.com/henrymie/Typing-Master" target="_blank">Typing Master</a> 
-  - A fun game where you type as fast as you can!
+  <a href="https://github.com/henrymie/mac-os-simulation" target="_blank">Mac OS Simulator</a> 
+  - A simulator fully made by me to simulate the Mac OS UI.
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -72,3 +72,10 @@
     <a href="https://henman12.dreamhosters.com/proxy.html" target="_blank">Nexus Proxy</a> - A proxy site that unblocks any website imaginable.      
   </li>
 </ul>
+    <a href="https://github.com/henrymie/mac-os-simulation" target="_blank">Mac OS Simulator</a> - A simulator fully made by me to simulate the Mac OS UI.   
+  </li>
+</ul>
+    <a href="https://github.com/henrymie/Monkeytype-Clone/" target="_blank">Monkeytype Clone</a> - A typing game that was inspired by monkeytype.com.
+  </li>
+</ul>
+
