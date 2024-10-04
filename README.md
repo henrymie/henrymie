@@ -63,7 +63,7 @@
     <a href="https://github.com/henrymie/Typing-Master" target="_blank">Typing Master</a> - A fun game where you type as fast as you can!
   </li>
   <li>
-    <a href="https://github.com/henrymie/Typing-Master" target="_blank">Nexus Games</a> - An unblocked gaming site for schools, featuring games like Subway Surfers and Minecraft.    
+    <a href="https://henman12.dreamhosters.com/nexusgames.html" target="_blank">Nexus Games</a> - An unblocked gaming site for schools, featuring games like Subway Surfers and Minecraft.    
   </li>
   <li>
     <a href="https://henman12.dreamhosters.com/sunset.html" target="_blank">Sunset Games</a> - Another unblocked gaming site for school.
