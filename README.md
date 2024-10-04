@@ -1,3 +1,4 @@
+![mario-working](https://github.com/user-attachments/assets/a836aa23-1f1e-4c54-a0cb-1aede24c7706)
 <h1 align="center">Hi 👋, I'm Henry</h1>
 <h3 align="center">A passionate frontend and backend developer from the US</h3>
 
