@@ -71,10 +71,10 @@
   <li>
     <a href="https://henman12.dreamhosters.com/proxy.html" target="_blank">Nexus Proxy</a> - A proxy site that unblocks any website imaginable.      
   </li>
-</ul>
+  <li>
     <a href="https://github.com/henrymie/mac-os-simulation" target="_blank">Mac OS Simulator</a> - A simulator fully made by me to simulate the Mac OS UI.   
   </li>
-</ul>
+  <li>
     <a href="https://github.com/henrymie/Monkeytype-Clone/" target="_blank">Monkeytype Clone</a> - A typing game that was inspired by monkeytype.com.
   </li>
 </ul>
