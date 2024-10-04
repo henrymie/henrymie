@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend and backend developer from the US</h3>
 
 <h3 align="center">
-  <h1 align="center">My Biggest Project!</h1>
+  <h2 align="center">My Biggest Projects!</h2>
   <a href="https://github.com/henrymie/Typing-Master" target="_blank">Typing Master</a> 
   - A fun game where you type as fast as you can!
 </h3>
