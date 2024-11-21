@@ -59,23 +59,8 @@
 
 <h3 align="left">All Of My Projects:</h3>
 <ul>
-  <li>
-    <a href="https://github.com/henrymie/Typing-Master" target="_blank">Typing Master</a> - A fun game where you type as fast as you can!
-  </li>
-  <li>
-    <a href="https://henman12.dreamhosters.com/nexusgames.html" target="_blank">Nexus Games</a> - An unblocked gaming site for schools, featuring games like Subway Surfers and Minecraft.    
-  </li>
-  <li>
-    <a href="https://henman12.dreamhosters.com/sunset.html" target="_blank">Sunset Games</a> - Another unblocked gaming site for school.
-  </li>
-  <li>
-    <a href="https://henman12.dreamhosters.com/proxy.html" target="_blank">Nexus Proxy</a> - A proxy site that unblocks any website imaginable.      
-  </li>
-  <li>
     <a href="https://github.com/henrymie/mac-os-simulation" target="_blank">Mac OS Simulator</a> - A simulator fully made by me to simulate the Mac OS UI.   
   </li>
-  <li>
-    <a href="https://github.com/henrymie/Monkeytype-Clone/" target="_blank">Monkeytype Clone</a> - A typing game that was inspired by monkeytype.com.
-  </li>
+
 </ul>
 
